@@ -33,12 +33,15 @@ body{
     max-width: 20%;
     max-height: 20%;
     position: relative;
-    left: -10.5%;
+    left: -13%;
 }
 
 #background img{
-    height: 80%;
-    width: 80%;
+    height: auto;
+    width: 100%;
+    max-width: 300px;
+    display: block;
+    margin: 0 auto;
     padding-left: 35%;
     padding-right: 35%;
 }
